@@ -13,7 +13,6 @@ This application lets users create three different types of vehicles (Car, Truck
 * [Usage](#Usage)
 * [License](#License)
 * [Contributing](#Contributing)
-* [Tests](#Tests)
 * [Questions](#Questions)
  
 
