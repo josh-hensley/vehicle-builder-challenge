@@ -23,6 +23,11 @@ This app requires [Node.js](https://nodejs.org/en/download/prebuilt-installer/cu
 ## <a name="Usage"></a>Usage
 
 
+
+https://github.com/user-attachments/assets/ab072306-e342-4fb3-917b-e124dcc12b88
+
+
+
 After installing dependencies, run `npm start`.  Use arrow keys to choose between creating a vehicle or selecting an existing vehicle, then modify or perform actions by answering prompts or selecting from the menu.  
 
 ## <a name="license"></a>License
