@@ -18,7 +18,7 @@ This application lets users create three different types of vehicles (Car, Truck
 
 ## <a name="Installation"></a>Installation
 
-This app requires Node.js. Run `npm i` from the root folder.
+This app requires [Node.js](https://nodejs.org/en/download/prebuilt-installer/current). Run `npm i` from the root folder to install node dependencies.
 
 ## <a name="Usage"></a>Usage
 
